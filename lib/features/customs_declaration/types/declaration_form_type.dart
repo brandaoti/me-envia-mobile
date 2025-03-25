@@ -1,0 +1,4 @@
+enum DeclarationFormType {
+  category,
+  description,
+}

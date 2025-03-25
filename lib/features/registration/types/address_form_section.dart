@@ -1,0 +1,1 @@
+enum AddressFormSection { firstSection, segundSection }

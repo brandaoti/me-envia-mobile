@@ -1,0 +1,45 @@
+v1.2.2
+Fix: Ajuste na mensagens dos Mantras
+Fix: Ajuste no comprovante de pagamento
+v1.2.1
+Fix: Ajuste no status do pacote en envio
+v1.2.0
+Fix: Ajuste na página inicial   
+Fix: Substituido o fluxo de criação de caixas   
+Feat: Adicionado um preview para images do itens   
+Fix: Ajuste na craição do usuário  
+v1.1.7
+Fix: Ajustado a mensagem de finalização do cadastro  
+v1.1.6
+Fix: Ajuste na descrição do tutorial
+Fix: ajuste na funcionalidade do Whastapp
+v1.1.4
+Fix: ajuste nas configurações das notificações IOS
+v1.1.2
+Fix: ajustes na lista de dicas da maria
+v1.1.1
+Fix: removido transição dos modais do tutorial
+v1.1.0
+Fix: ajustes gerais
+v1.0.4+15
+Fix: Replace version code
+v1.0.4+12
+Fix: Refatorado o delay nos modais do tutorial
+v1.0.2+9
+- Feat: adicionado um delay nos modais do tutorial
+v1.0.2+8
+- Feat: versão para homolog
+v0.1.0
+- Feat: Adicionado integração com api para demais informações
+- Feat: Adicionado fluxo de criação de uma caixa 
+v0.0.4
+- Feat: adicionado tela de saiba mais
+- Feat: adicionado tela de sem conexão de internet
+- Fix:  desabilitado login e cadastro temporariamente
+- Fix:  adicionado o botão para visualizar a senha na teal de login
+v0.0.3
+- Fix: ajutes no cadastro.
+v0.0.2
+- Fix: Alterado o fluxo de embarque no maria me envia, com a splash screen como tela incial.
+v0.0.1
+- Feat: Primeira versão.

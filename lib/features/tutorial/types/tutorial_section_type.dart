@@ -1,0 +1,4 @@
+enum TutorialSectionType {
+  initial,
+  steps,
+}

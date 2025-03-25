@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "789311885873",
+    "project_id": "maria-me-envia-c0271",
+    "storage_bucket": "maria-me-envia-c0271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789311885873:android:1bcf0e2fa3cab28ec9bb10",
+        "android_client_info": {
+          "package_name": "br.com.mariameenvia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789311885873-fncnh0kj0qt5omsff99huhjgth3piim3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgCHn-gFPx8_JfKFnJHftfirf-GGIWbJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789311885873-fncnh0kj0qt5omsff99huhjgth3piim3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "789311885873-i827la19tjmc4snhv716c189kqacf5a7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.cubos.mariameenvia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789311885873:android:93fb9ad321be8d16c9bb10",
+        "android_client_info": {
+          "package_name": "dev.hofs.fcm_notifications.fcm_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789311885873-fncnh0kj0qt5omsff99huhjgth3piim3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgCHn-gFPx8_JfKFnJHftfirf-GGIWbJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789311885873-fncnh0kj0qt5omsff99huhjgth3piim3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "789311885873-i827la19tjmc4snhv716c189kqacf5a7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.cubos.mariameenvia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

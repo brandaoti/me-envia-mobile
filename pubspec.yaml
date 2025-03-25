@@ -1,0 +1,102 @@
+name: maria_me_envia
+description: Flutter boilerplate
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.2.2
+
+environment:
+  sdk: ">=2.5.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: 1.0.3
+
+  # Cubos' libraries
+  cubos_extensions: ^1.0.3
+  cubos_widgets: ^1.0.4
+
+  # client http
+  dio: ^4.0.0
+  http: ^0.13.3
+  connectivity: ^3.0.6
+  url_launcher: ^6.0.9
+  file_picker: ^4.0.0
+  pdf_compressor: ^0.2.0
+  path_provider: ^2.0.4
+  cached_network_image: ^3.1.0
+
+  # project structure
+  uuid: ^3.0.4
+  flutter_modular: ^3.3.1
+
+  #Save data
+  shared_preferences: ^2.0.6
+  flutter_dotenv: ^5.0.0
+
+  # Reactive programming
+  rxdart: ^0.27.1
+
+  # Material icons
+  material_design_icons_flutter: ^5.0.6295
+  flutter_svg: ^0.22.0
+
+  # mask text
+  intl: ^0.17.0
+  simple_tooltip: ^1.0.0
+  auto_size_text: ^2.1.0
+  dotted_border: ^2.0.0+1
+  flutter_masked_text: ^0.8.0
+  mask_text_input_formatter: ^2.0.0-nullsafety.2
+
+  # mask cpf / cnpj
+  cpfcnpj: any
+
+  # firebase
+  firebase_core: ^1.7.0
+  firebase_messaging: ^10.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: ^0.9.0
+  flutter_lints: ^1.0.4
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/svgs/
+    - assets/images/
+    - assets/files/privacy_policy.txt
+    - .env
+
+  fonts:
+    - family: Lato
+      fonts:
+        - asset: assets/fonts/Lato-Black.ttf
+        - asset: assets/fonts/Lato-Bold.ttf
+        - asset: assets/fonts/Lato-Light.ttf
+        - asset: assets/fonts/Lato-Regular.ttf
+        - asset: assets/fonts/Lato-Light.ttf
+        - asset: assets/fonts/Lato-Thin.ttf
+
+  # FLUTTER LAUNCHER ICONS
+  # Run the following code on terminal to generate the launcher icons:
+  # flutter pub get
+  # flutter pub run flutter_launcher_icons:main
+  #https://pub.dev/packages/flutter_launcher_icons
+flutter_icons:
+  ios: true
+  android: true
+  image_path: "assets/icons/icon.png" #for iOS
+  adaptive_icon_background: "#F23384D" #for Android
+  remove_alpha_ios: true

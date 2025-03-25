@@ -1,0 +1,4 @@
+enum OrderStatus {
+  viewing,
+  selecting,
+}

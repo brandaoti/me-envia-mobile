@@ -1,0 +1,79 @@
+update_fastlane
+
+default_platform(:android)
+
+package_name = "br.com.mariameenvia"
+
+platform :android do
+
+  def get_version_code
+     properties = File.read("../local.properties")
+     versionCodeRegex = /(?<=flutter.versionCode=).+/
+     versionCode = versionCodeRegex.match(properties)[0]
+     versionCode
+  end
+
+  def create_changelog(version_code)
+     system 'mkdir', '-p', './metadata/android/pt-BR/changelogs'
+     changelog_path = './metadata/android/pt-BR/changelogs/#{version_code}.txt'
+     build_notes = File.read("../../lib/release-notes.txt")
+     File.open(changelog_path, 'w') { |file| file.write(build_notes) }
+  end
+
+  def prepare_bundle(internal)
+   build_number = ENV["CI_PIPELINE_ID"]
+   sh("flutter", "clean")
+   if internal
+     sh("flutter", "build", "apk", "--release", "--no-sound-null-safety")
+   else
+     sh("flutter", "build", "appbundle", "--build-number=#{build_number}", "--release", "--no-sound-null-safety")
+     version_code = get_version_code
+     create_changelog(version_code)
+   end
+  end
+
+ desc "Submit a new Beta Build to Cubos' team"
+ lane :testers do
+   firebase_app_distribution(
+     app: ENV["ANDROID_APP_ID"],
+     apk_path: "../build/app/outputs/flutter-apk/app-release.apk",
+     release_notes_file: "../lib/release-notes.txt",
+     firebase_cli_token: ENV["FIREBASE_TOKEN"],
+     groups: "cubos",
+   )
+ end
+
+ desc "Submit a new Beta Build to Atria's Customers"
+ lane :customers do
+   sh("flutter build apk --no-sound-null-safety")
+
+   firebase_app_distribution(
+     app: ENV["ANDROID_APP_ID"],
+     apk_path: "../build/app/outputs/flutter-apk/app-release.apk",
+     release_notes_file: "../lib/release-notes.txt",
+     firebase_cli_token: ENV["FIREBASE_TOKEN"],
+     groups: "cliente",
+   )
+ end
+
+ lane :build_android do |options|
+   prepare_bundle(options[:internal])
+ end
+
+ desc "Deploy (Upload to play store)"
+ lane :deploy_android do |options|
+   upload_to_play_store(
+     track: options[:internal] ? 'internal' : options[:alpha] ? 'alpha' : 'beta',
+     aab: '../build/app/outputs/bundle/release/app-release.aab',
+     json_key: ENV["GOOGLE_PLAY_CREDENTIALS"],
+     package_name: package_name,
+     skip_upload_images: true,
+     skip_upload_screenshots: true,
+   )
+ end
+
+ desc "Promote Beta track to Production in Google Play"
+ lane :prod do
+   upload_to_play_store(track: 'beta', skip_upload_aab: true, track_promote_to: 'production')
+ end
+end

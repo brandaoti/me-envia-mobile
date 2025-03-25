@@ -1,0 +1,189 @@
+POLÍTICA DE PRIVACIDADE E PROTEÇÃO DE DADOS PESSOAIS
+MARIA ME ENVIA - SETEMBRO/2021
+
+Nós, da MARIA ME ENVIA, pessoa jurídica estrangeira com sede em 1628 Elizabeths Walk, Winter Park, Florida, 32789, Estados Unidos, regularmente inscrita, com Employer Identification Number nº 87-2050351, doravante denominada “MARIA ME ENVIA”, entendemos a importância da sua privacidade e compreendemos a necessidade da transparência sobre os processos de coleta e tratamento de seus dados pessoais (“informação relacionada a pessoa natural identificada ou identificável”), durante a utilização dos nossos serviços.
+ 
+Você compartilhará alguns dados pessoais conosco ao utilizar nossos serviços através do Aplicativo MARIA ME ENVIA. Por isso, fazemos questão de deixar bastante claro quais informações são coletadas, como elas são utilizadas, com quem elas são compartilhadas, quais são os seus direitos e de que forma você poderá exercê-los. Para isso, preparamos essa Política de Privacidade e Proteção de Dados Pessoais (“Política de Privacidade”) em conformidade com a Lei nº 13.709/2018 (“Lei Geral de Proteção de Dados” ou “LGPD”), a Lei nº 12.965/2014 (“Marco Civil da Internet”) e demais leis aplicáveis, através dos seguintes tópicos:
+Definições essenciais;
+Nossa atuação como Controlador de Dados Pessoais;
+Quais Dados Pessoais tratamos?
+Finalidades e Bases Legais para os Tratamentos de Dados Pessoais;
+Armazenamento dos Dados Pessoais;
+Medidas de Segurança Adotadas;
+Compartilhamento dos Dados Pessoais;
+Direitos do Titular dos Dados Pessoais;
+Atualizações e alterações na Política de Privacidade;
+Contato e Dúvidas;
+Foro competente
+ 
+Esta Política de Privacidade abrange os dados pessoais coletados e/ou tratados na administração da plataforma “MARIA ME ENVIA”, para a prestação de serviços de redirecionamento de compras internacionais e personal shopper.
+
+Esclarecemos que esta Política é um documento complementar aos Termos e Condições de Uso da plataforma MARIA ME ENVIA e, por isso, deverá ser interpretada em conjunto com o referido documento, no qual inclusive estão descritas as regras de utilização e as responsabilidades dos Usuários na utilização da MARIA ME ENVIA. Desta forma, caso você tenha se cadastrado para utilizar os serviços através da MARIA ME ENVIA, esta Política de Privacidade se aplica aos seus dados pessoais tratados nessa ocasião.
+ 
+O fornecimento dos seus dados pessoais pressupõe a aceitação da presente Política. Portanto, caso não concorde com ela, solicitamos que não nos forneça seus dados pessoais e não faça uso do nosso aplicativo e serviços em geral.
+ 
+Esta Política de Privacidade contém duas colunas, devendo ser considerado, para os efeitos de vinculação jurídica, o conteúdo da coluna da esquerda, servindo todo o conteúdo da coluna da direita apenas para fins de facilitação da sua interpretação.
+ 
+Definições essenciais:
+Para o seu esclarecimento e melhor compreensão dessa Política, nós adotamos as seguintes definições:
+Dados pessoais: qualquer informação sobre pessoa natural identificada ou identificável. Desta forma, dados anonimizados não serão considerados dados pessoais;
+Dados pessoais sensíveis: qualquer dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural;
+Titular dos dados pessoais: pessoa natural a quem os dados pessoais se referem. Para os efeitos dessa Política, são titulares de dados pessoais o Usuário ou Visitante;
+Tratamento de dados: toda operação realizada com dados pessoais, como as que se referem a coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle da informação, modificação, comunicação, transferência, difusão ou extração;
+Controlador de dados pessoais: pessoa física ou jurídica a quem compete as decisões referentes ao tratamento de dados pessoais;
+Operador de dados pessoais: pessoa física ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do controlador;
+Sub-operador ou sub-processador de dados pessoais: operador de dados pessoais contratado pelo operador de dados pessoais para auxiliar no cumprimento das finalidades estabelecidas nesta Política. Os Sub-operadores poderão incluir terceiros ou parceiros do operador, excluindo todos os seus funcionários que são considerados seus representantes e atuam como Operador;
+Autoridade Nacional de Proteção de Dados – ANPD: órgão da Presidência da República responsável pela fiscalização do cumprimento da LGPD;
+Encarregado de proteção de dados: pessoa física ou jurídica indicada pelo Controlador e Operador para atuar como canal de comunicação entre o Controlador, os titulares de dados, a ANPD e terceiros em geral;
+     Usuário: pessoa física ou jurídica que compartilha dados pessoais ao utilizar o Aplicativo MARIA ME ENVIA para redirecionar compras feitas internacionalmente e/ou utilizar nossos serviços de personal shopper;
+Visitante: pessoa física que navega pelo Aplicativo MARIA ME ENVIA, ainda que sem realizar cadastro para utilização das suas funcionalidades.
+ 
+Nossa atuação como Controlador de Dados Pessoais:
+O controlador de dados pessoais é a pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais. Assim, o controlador de dados pessoais tem o poder de decisão e é quem define os propósitos e finalidades referente ao tratamento de dados pessoais. Desta forma, atuamos como controlador dos dados pessoais de Usuários durante sua navegação na plataforma MARIA ME ENVIA, quando os Usuários fornecem os dados pessoais para utilização dos serviços prestados pela plataforma.
+Ou, em outras palavras,
+Quando você utiliza a plataforma MARIA ME ENVIA como Usuário, coletaremos alguns dos seus dados pessoais para que os nossos serviços possam ser prestados. Nessa ocasião, atuaremos como controlador dos referidos dados.
+
+ 
+Quais Dados Pessoais tratamos?
+Coletamos os seguintes dados pessoais de nossos Usuários para a execução dos serviços:
+Nome completo;
+Endereço;
+Telefone;
+CPF;
+E-mail;
+Número de conta bancária e agência.
+É possível que o Usuário também forneça informações e dados pessoais adicionais de forma voluntária ao entrar em contato conosco através de nossos canais de atendimento via WhatsApp, e-mail ou telefone.
+Durante o uso da plataforma MARIA ME ENVIA, coletamos informações de transações relacionadas ao uso dos serviços de redirecionamento de compras internacionais e personal shopper, o que inclui informações de valores adquiridos, produto adquirido pelo Usuário, empresa na qual o produto foi adquirido, data e hora em que a compra foi feita e a forma de pagamento. 
+Você também fica, neste ato, ciente de que funcionalidades da plataforma MARIA ME ENVIA dependem de integração a serviços/aplicativos de terceiros, em razão disso, nós não poderemos ser responsabilizados por eventuais descumprimentos dos termos de uso e/ou regulamentos desses terceiros nem pelo tratamento de dados por estes realizados.
+Ou, em outras palavras,
+Quando você utiliza a plataforma MARIA ME ENVIA coletamos seu nome, endereço, CPF, e-mail e dados bancários. Outros dados pessoais podem ser compartilhados voluntariamente por Usuários através de nossos canais de atendimento. Coletamos também dados relacionados ao produto adquirido pelo Usuário. As funcionalidades do nosso Aplicativo dependem da integração de softwares de terceiros, porém não poderemos ser responsabilizados por eventuais descumprimentos destes terceiros.
+Coleta de Dados Pessoais Sensíveis:
+Não coletamos intencionalmente dados pessoais sensíveis. Entretanto, é possível que você opte por, voluntariamente, informar algum dado pessoal sensível, como dados de saúde, por exemplo, para que possamos adquirir algum produto relacionado à saúde do Usuário. Em ocasiões como essa, o fornecimento deste dado implica na ciência dos termos e condições constantes nesta Política, concedendo desde já o seu livre e inequívoco consentimento para o tratamento de seus dados pessoais para as finalidades aqui determinadas.
+Ou, em outras palavras,
+Não coletamos dados sensíveis
+de propósito e apenas tratamos esse tipo de dado quando o próprio usuário decide enviá-los. Nesse caso, o usuário automaticamente consente com os Termos e Política da MARIA ME ENVIA.
+Coleta de Dados de Crianças e Adolescentes:
+Não coletamos consciente ou intencionalmente dados pessoais de menores de 18 (dezoito) anos, tendo em vista que os serviços da plataforma MARIA ME ENVIA não são destinados nem dirigidos a menores de 18 (dezoito) anos. Dessa forma, caso seja encontrado ou identificado algum dado pessoal de menores em nosso banco de dados sem a devida autorização do seu responsável legal, esse será excluído de forma segura e definitiva.
+ 
+Ou, em outras palavras,
+Excluiremos qualquer dado pessoal de menores de 18 anos que for identificado em nosso banco de dados sem autorização do respectivo responsável legal.
+Finalidades e Bases Legais para os Tratamentos de Dados Pessoais:
+Os tratamentos de dados pessoais realizados pela MARIA ME ENVIA sempre terão como objetivo atingir finalidades legítimas, específicas, explícitas e devidamente informadas e fundamentadas em bases legais da LGPD. Para proporcionar uma experiência mais transparente para você, destacamos as finalidades e respectivas bases legais dos principais tratamentos de dados pessoais que realizamos.
+Efetuamos o tratamento dos dados pessoais coletados para fins de desenvolvimento dos nossos serviços, oferecimento dos recursos solicitados, bem como para a sua promoção e garantia de qualidade. Desta forma, realizamos o tratamento dos dados pessoais em procedimentos preliminares ou na própria execução de contrato do qual o titular seja ou venha a fazer parte e a pedido deste, nos termos do art. 7º, inciso V, da lei 13.709/2018 (“LGPD”). 
+Por exemplo, é requerido para a contratação dos nossos serviços o fornecimento de um e-mail para execução do contrato, o que é necessário para o envio das informações relativas aos serviços. De igual forma, são requisitadas informações cadastrais para que seja possível a correta prestação dos serviços. Além disso, o tratamento do endereço é necessário para o envio do produto adquirido pelo Usuário e o tratamento dos dados bancários é necessário para a operacionalização e concretização do pagamento do Usuário pelos serviços prestados pela plataforma MARIA ME ENVIA.
+Dessa forma, utilizamos os seus dados pessoais para identificar, cadastrar, criar e alterar os dados do Usuário, confirmar a identidade, nos comunicar com o Usuário, viabilizar o uso da plataforma MARIA ME ENVIA, o que pode incluir o processamento de pagamentos, solucionar problemas e realizar o desenvolvimento do nosso sistema operacional, entre outros tratamentos vinculados diretamente à nossa prestação de serviços.  
+De igual maneira, para fins de segurança e aprimoramento dos serviços, podemos tratar os seus dados pessoais, o que inclui a proteção contra fraudes no uso da plataforma MARIA ME ENVIA, nos termos do art. 7º incisos IX e X da LGPD.
+Eventualmente, os dados podem ser tratados em razão da necessidade de atender aos nossos interesses legítimos ou de terceiros, como para o apoio e promoção de nossas atividades. Também podemos utilizar suas informações pessoais para identificar seu perfil e hábitos para personalizar ofertas e estratégias de serviços relacionados à MARIA ME ENVIA e utilizar seus dados pessoais para possibilitar o envio de informações de novidades e promoções da MARIA ME ENVIA. É assim que podemos vir a entrar em contato diretamente, ou encaminhar e-mail de marketing para os nossos leads, que de maneira livre e informada optaram por fornecer os seus dados para este fim, conforme previsto no art. 7º, inciso IX, da LGPD. 
+Você pode optar por não receber mais e-mails de marketing a qualquer momento, para isso, basta exercer a opção no próprio e-mail de marketing recebido.
+Também podemos usar os seus dados pessoais para fins de auditoria, promoções, comunicação com os Clientes, Usuários e Parceiros e análises para o aprimoramento dos nossos serviços, pesquisas, desenvolvimento e geração de estatísticas e tendências inerentes ao uso dos serviços. Quando possível, estas análises são feitas de forma anonimizada, e sempre preservando os direitos e garantias dos titulares dos dados. 
+Nós nos reservamos o direito de realizar o tratamento dos seus dados pessoais quando estes forem necessários para o cumprimento de obrigação legal ou regulatória (ex. guarda de informação para o cumprimento da Lei 12.965/2014, também conhecida como Marco Civil da Internet), proteção ao crédito, ou para o exercício regular de direitos em processo judicial, administrativo ou arbitral, durante todo o prazo necessário para tanto. 
+Podemos eventualmente tratar os seus dados pessoais para finalidade diversa das descritas neste tópico se você for notificado previamente e, se necessário, consentir com tal operação. Todos os tratamentos realizados são amparados pelo art. 7º da LGPD.
+Tratamos os dados pessoais coletados de acordo com as finalidades indicadas acima sempre respeitando os princípios da adequação e necessidade.
+Para a realização dos tratamentos de dados pessoais coletados pela MARIA ME ENVIA, a LGPD dispensa o consentimento dos titulares. Isso porque tratamos os seus dados de acordo com as seguintes bases legais:
+a) execução de contrato ou procedimentos preliminares relacionados a contrato do qual seja parte o titular (art. 7º, V, da LGPD), nos casos dos dados cadastrais do Usuário e informações apontadas na utilização da MARIA ME ENVIA;
+b) legítimo interesse do controlador ou de terceiros (art. 7º, IX, da LGPD), nos casos de comunicações comerciais, promoção das nossas atividades e produtos, geração de relatórios para fins de aprimoramento dos serviços prestados pela MARIA ME ENVIA;
+c) exercício regular de direitos em processo judicial, administrativo ou arbitral (art. 7º, VI, da LGPD), nos casos de armazenamento das suas informações pelos prazos previstos em lei;
+d) cumprimento de obrigação legal ou regulatória (art. 7º, I da LGPD), nos casos de guarda das informações indicadas no Marco Civil da Internet;
+e) para a proteção do crédito, inclusive quanto ao disposto na legislação pertinente (art. 7º, X, da LGPD), nos casos de tratamento de dados para segurança e aprimoramento dos serviços, o que inclui a proteção contra fraudes no uso da plataforma MARIA ME ENVIA.
+Ou, em outras palavras,
+
+Tratamos seus dados pessoais para as seguintes finalidades:
+(a) Garantir a utilização da MARIA ME ENVIA de forma segura e personalizada;
+(b) Melhorar sua experiência na plataforma e garantir a segurança dos serviços;
+(c) Nos comunicarmos com você, seja para fins informativos ou comerciais;
+(d) Personalizar e comunicar ofertas e serviços;
+(e) Cumprir obrigações legais e regulatórias, proteção ao crédito ou para o exercício regular de direitos em processo judicial, administrativo ou arbitral.
+
+A LGPD nos autoriza tratar seus dados pessoais por causa das seguintes bases legais:
+(a) para executarmos um contrato ou durante procedimentos preliminares de um contrato;
+(b) houver um legítimo interesse, seja nosso, seu ou de terceiros;
+(c) estivermos em nosso exercício regular de direitos durante alguma disputa;
+(d) estivermos cumprindo obrigações legais ou regulatórias;
+(e) para a proteção do crédito.
+
+
+
+
+Armazenamento dos Dados Pessoais:
+Os dados pessoais sob o nosso controle serão armazenados pelo tempo razoável e legítimo, de acordo com a finalidade de cada tratamento e os prazos legais. Os dados pessoais coletados e controlados pela MARIA ME ENVIA são armazenados por meio do serviço de armazenamento em nuvem Google Cloud. Findos o prazo estabelecido e a necessidade legal, os dados pessoais serão excluídos com uso de métodos de descarte seguro, ou passarão por um processo de anonimização.
+Caso haja solicitação do titular, os dados poderão ser apagados antes do prazo interno de eliminação estabelecido para o cumprimento de determinada finalidade. No entanto, pode ocorrer de os dados precisarem ser mantidos no banco ou venham a ser tratados por motivo de exercício regular de direitos, disposição legal, ordem judicial, prevenção à fraude, proteção ao crédito e outros interesses legítimos – e se esse for o caso, você será informado acerca da não eliminação dos dados cuja exclusão foi solicitada.
+Por fim, é importante ressaltar que na medida do permitido ou exigido por lei, podemos eliminar as suas informações pessoais a qualquer momento por critérios próprios de não conformidade, não havendo, de nossa parte, o dever de guarda delas.
+ 
+Ou, em outras palavras,
+Armazenamos suas informações através do sistema de nuvem Google Cloud. Excluiremos essas informações de forma segura assim que não precisarmos mais delas. Você pode solicitar que esse descarte seja feito antes disso, porém pode acontecer de ainda precisarmos desses dados por algum motivo (nesse caso, vamos te informar sobre a impossibilidade de exclusão e sobre o motivo). Além disso, também podemos eliminar suas informações a qualquer momento.
+Medidas de Segurança Adotadas:
+Utilizamos sistemas e procedimentos que atendem a padrões razoáveis de precaução e cuidado, considerando-se as possibilidades técnicas e economicamente razoáveis da tecnologia aplicável à internet, como o uso de firewall e criptografia de dados para proteção contra acessos indevidos, entre outras medidas.
+Nós não divulgaremos, intencionalmente, os seus dados pessoais e não nos responsabilizamos por ações de Usuários, inclusive casos de negligência que possam expor dados, razão por que recomendamos a utilização de antivírus, procedimentos de segurança da informação e outras providências necessárias para a manutenção da segurança dos dados pessoais.
+Você reconhece, neste ato, que não há a possibilidade de segurança total na rede mundial de computadores, principalmente com relação a invasões criminosas às redes seguras de dados por hackers, entre outros cenários de incidentes de segurança. 
+Apesar disso, nos comprometemos a tomar as providências razoáveis para proteger e impedir o acesso não autorizado aos seus dados. Contudo, não poderemos ser sancionados pelos atos daqueles que porventura obtenham acesso não autorizado aos seus dados. Não prestamos nenhuma garantia, expressa ou implícita, de que impediremos o acesso não autorizado a seus dados. Ocorrendo quaisquer incidentes de segurança que acarretem a exposição ou o acesso não autorizado dos seus dados pessoais, publicaremos um aviso informativo no Aplicativo e/ou te encaminharemos um e-mail informando as circunstâncias do ocorrido. Serão cumpridas todas as obrigações legais e previstas nas regulamentações da Autoridade Nacional de Proteção de Dados.
+Ou, em outras palavras,
+Protegemos seus dados pessoais tanto com tecnologia (através de firewalls e criptografia, por exemplo), quanto com preparação de nossos colaboradores.
+Porém, você reconhece que é impossível que possamos garantir uma segurança total na rede mundial de computadores. Vamos tomar todas as medidas de segurança possíveis para evitar um incidente de segurança, mas, caso aconteça, não poderemos ser sancionados pelo acesso não-autorizado aos seus dados pessoais. Além disso, caso um incidente de segurança aconteça, você será informado prontamente e cumpriremos todas as obrigações legais e regulatórias.
+Compartilhamento dos Dados Pessoais:
+Para a realização e efetivação das finalidades descritas nesta Política de Privacidade, poderemos realizar o compartilhamento dos seus dados pessoais com outros agentes de tratamento de dados. Esse compartilhamento dos dados pessoais será sempre realizado em respeito aos princípios da boa-fé, finalidade, adequação, necessidade, livre acesso, qualidade dos dados, transparência, segurança, prevenção, não discriminação e responsabilização e prestação de contas.
+Poderemos compartilhar internamente os seus dados pessoais com pessoas cuja função dentro da empresa exija o acesso a eles. A utilização de Operadores e/ou serviços de terceiros também pode levar ao compartilhamento dos seus dados pessoais, como por exemplo a utilização dos serviços de armazenamento em nuvem e intermediação de pagamentos.
+No decorrer do tratamento de dados, eventualmente poderemos compartilhar os seus dados pessoais de maneira diferente das descritas neste tópico, caso haja o seu consentimento expresso para tanto.
+Ou, em outras palavras,
+Podemos compartilhar seus dados pessoais para cumprirmos as finalidades de tratamento indicadas nessa Política.
+Este compartilhamento poderá ser feito: (i) com nossos Operadores; (ii) com autoridades, quando houver determinação legal, requisição de autoridade administrativa ou ordem judicial; (iii) de forma internacional, para viabilizar o uso da plataforma; (iv) internamente com nossos funcionários; (v) com terceiros para melhorarmos sua experiência durante a utilização da plataforma.
+Eventualmente poderemos compartilhar seus dados de forma distinta, mas buscaremos seu consentimento expresso para tanto.
+
+
+Compartilhamento com Autoridades:
+Os dados pessoais por nós coletados e as atividades registradas, bem como os registros dos tratamentos, poderão ser compartilhados com autoridades judiciais ou administrativas competentes, sempre que houver determinação legal, requisição por autoridade administrativa ou ordem judicial.
+
+
+Transferência internacional:
+Qualquer compartilhamento de dados será feito sempre dentro dos limites e propósitos dos tratamentos descritos na presente Política, sendo possível a transferência internacional de dados quando houver a utilização softwares e/ou servidores de terceiros que armazenam dados fora do país. Nesses casos, havendo transferência de dados pessoais para fora do Brasil, serão tomadas todas as providências e cuidados necessários para a proteção dos seus dados pessoais, em observâncias aos dispositivos do Capítulo V da LGPD.
+
+
+Compartilhamento com Terceiros:
+Para a prestação dos nossos serviços, o uso de subprocessadores dos dados, de parceiros de negócios e de serviços de terceiros também poderá levar ao compartilhamento dos dados pessoais que tratamos. Seus dados pessoais podem ser compartilhados com provedores de meios de pagamento e com prestadores de serviços eventualmente utilizados pela plataforma MARIA ME ENVIA, como escritórios de advocacia, contabilidade etc.
+Podemos utilizar fornecedores de serviços externos para a gestão do nosso Aplicativo ou redes sociais e criação de infraestruturas associadas, para a realização de auditoria ou para a prestação de serviços jurídicos. 
+Entre os processadores e serviços terceirizados que contratamos ou de alguma forma utilizamos para fornecer os nossos serviços, destacamos:
+Google Cloud (ferramenta armazenamento de dados em “nuvem”);
+Firebase messaging (envio de notificações push);
+Mailgun (envio de e-mails).
+ 
+
+
+Direitos do Titular dos Dados Pessoais:
+Respeitamos os seus direitos como titular de dados pessoais previstos no art. 18 da LGPD e garantimos que você poderá solicitar a qualquer momento: 
+I. Confirmação do tratamento dos dados: a confirmação da existência de tratamento de seus dados pessoais;
+II. Acesso aos dados: o acesso aos seus dados pessoais por nós tratados;
+III. Correção de dados: a correção de seus dados pessoais incompletos, inexatos ou desatualizados;
+IV. Anonimização, bloqueio e eliminação dos dados: a anonimização, bloqueio ou eliminação de seus dados pessoais considerados desnecessários, excessivos ou tratados em desconformidade com o disposto na LGPD;
+V. Portabilidade dos dados: a portabilidade dos dados pessoais para outro fornecedor de serviço ou produto, mediante requisição expressa, de acordo com a regulamentação da autoridade nacional, observados os segredos comercial e industrial;
+VI. Oposição ao tratamento dos dados: a paralisação do tratamento e eliminação dos seus dados pessoais tratados com o seu consentimento, caso você se oponha ao tratamento, a sua finalidade ou a forma que está sendo realizado. O tratamento será paralisado e os dados eliminados, exceto nas hipóteses em que o tratamento foi realizado com amparo em base legal diversa do consentimento;
+VII. Informação sobre compartilhamento de dados: as informações a respeito de com quais entidades públicas e privadas nós realizamos uso compartilhado de dados;
+VIII. Informação sobre o consentimento: as informações a respeito da possibilidade de não fornecer determinados consentimentos e sobre as consequências da negativa;
+IX. Revogação do consentimento: a revogação do consentimento.
+Solicitamos que nos seja informado quaisquer alterações em seus dados pessoais, para que os seus dados sejam atualizados e mantidos corretamente armazenados conosco.
+Em caso de impossibilidade de adoção imediata das providências indicadas acima, enviaremos uma resposta para indicar as razões de fato ou de direito que impedem a sua adoção imediata, conforme determina o art. 18º, §4º, da LGPD.
+ 
+Ou, em outras palavras,
+Vamos cumprir todos os direitos que a LGPD lhe confere, inclusive os de:
+I. Confirmar se estamos tratando seus dados;
+II. Acessar seus dados que estão sendo tratados por nós;
+III. Corrigir dados;
+IV. Exigir que seus dados sejam anonimizados, bloqueados ou eliminados de nosso banco de dados;
+V. Levar seus dados para outro fornecedor de serviço, de forma portável;
+VI. Exigir a paralização do tratamento e eliminação de seus dados;
+VII. Exigir informações sobre com quem estamos compartilhando seus dados;
+VIII. Exigir informações sobre o que acontece se você não concordar com determinado tratamento de seus dados;
+IX. Revogar seu consentimento e qual será a consequência disso;
+X. Acionar autoridades.
+
+Para conseguirmos cumprir com seus direitos, é necessário que você nos mantenha informado sobre eventuais mudanças nos seus dados pessoais. Caso não seja possível cumprir com sua solicitação imediatamente, vamos te manter totalmente informados, conforme previsto na LGPD.
+Atualizações e alterações na Política de Privacidade:
+Nos é reservado o direito de alterar ou atualizar a presente Política a qualquer momento, com o objetivo de garantir a sua privacidade e o compromisso de transparência sobre os processos de coleta e tratamento dos seus dados pessoais. As modificações podem ocorrer quando houver alteração nos dados coletados, tratamentos realizados ou finalidades, quando requerido pela Autoridade Nacional de Proteção de Dados ou outro órgão competente, ou em decorrência de questionamentos ou sugestões suas.
+A nova versão da Política de Privacidade entrará em vigor imediatamente após a sua publicação no Aplicativo MARIA ME ENVIA. Caso você não concorde com qualquer das alterações da Política de Privacidade, deverá cessar o uso dos serviços da MARIA ME ENVIA e poderá solicitar a interrupção do tratamento dos seus dados pessoais nos limites contratuais e legalmente possíveis e razoáveis.
+
+Ou, em outras palavras,
+Podemos alterar esta Política futuramente.
+
+Contato e Dúvidas:
+Caso haja a necessidade e/ou vontade de esclarecer qualquer dúvida sobre a presente Política, de obter mais informações acerca dos tratamentos dos seus dados pessoais ou de exercer algum dos seus direitos, você poderá entrar em contado com o Encarregado de proteção de dados por meio do e-mail xxxxxxxxxx.
+
+Foro competente:
+Esta Política de Privacidade será regida e interpretada exclusivamente de acordo com a legislação brasileira, especialmente a Lei Geral de Proteção de Dados. Qualquer reclamação, conflito ou controvérsia que dela surgir, ou a ela for relacionada, deverá ser solucionada no foro da comarca de [=]. 

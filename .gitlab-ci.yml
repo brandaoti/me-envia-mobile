@@ -1,0 +1,127 @@
+stages:
+  - test
+  - prepare
+  - build
+  - deploy
+
+.Setup: &setup
+  - export LC_ALL=en_US.UTF-8
+  - export LANG=en_US.UTF-8
+
+Test:
+  tags:
+    - mac-deploy
+  script:
+    - cp $ENV_DEV .env
+    - flutter clean
+    - flutter test --no-sound-null-safety
+  interruptible: true
+
+.Dev:
+  tags:
+    - mac-deploy
+  only:
+    - /^internal-.*$/
+
+.DevBuild: &dev_build
+  - cp $ENV_DEV .env
+
+.PrepareAndroid: &prepare_android
+  - *setup
+  - cd android
+  - bundle install
+
+Android Build (DEV):
+  stage: build
+  extends: .Dev
+  script:
+    - *dev_build
+    - *prepare_android
+    - cp $KEY_PROPERTIES key.properties 
+    - bundle exec fastlane build_android internal:true
+    - rm -f android/local.properties
+    - rm -f android/key.properties
+  artifacts:
+    paths:
+      - build/app/outputs/flutter-apk/app-release.apk
+    expire_in: 1 week
+
+Android Deploy (DEV):
+  stage: deploy
+  extends: .Dev
+  script:
+    - *dev_build
+    - *prepare_android
+    - bundle exec fastlane testers
+  dependencies:
+    - Android Build (DEV)
+
+.PrepareiOS: &prepare_ios
+  - *setup
+  - cd ios
+  - bundle install
+
+.Prod:
+  only:
+    - /^release-.*$/
+  
+.ProdBuild: &prod_build
+  - cp $ENV_PROD .env
+
+iOS Build (PROD):
+  stage: build
+  extends: .Prod
+  script:
+    - *prod_build
+    - *prepare_ios
+    - export IOS_CREDENTIAL_REPO=https://gitlab-ci-token:$CI_JOB_TOKEN@git.cubos.io/$CREDENTIAL_REPO
+    - export TEMP_KEYCHAIN_NAME=fastlane_maria_user
+    - export TEMP_KEYCHAIN_PASSWORD=$(cat /dev/urandom | LC_ALL=C tr -dc 'a-zA-Z0-9' | fold -w ${1:-64} | head -n 1)
+    - bundle exec fastlane beta
+  artifacts:
+    paths:
+      - ios/Runner.ipa
+    expire_in: 1 week
+  interruptible: true
+  tags:
+    - mac-build
+
+
+iOS Deploy (PROD):
+  stage: deploy
+  extends: .Prod
+  script:
+    - *prepare_ios
+    - bundle exec fastlane deploy
+  dependencies:
+    - iOS Build (PROD)
+  tags:
+    - mac-deploy
+
+Android Build (PROD):
+  stage: build
+  extends: .Prod
+  script:
+    - *prod_build
+    - *prepare_android
+    - cp $KEY_PROPERTIES key.properties
+    - bundle exec fastlane build_android
+    - rm -f android/local.properties
+    - rm -f android/key.properties
+  artifacts:
+    paths:
+      - build/app/outputs/bundle/release/app-release.aab
+    expire_in: 1 week
+  tags:
+    - mac-build
+
+Android Deploy (PROD):
+  stage: deploy
+  extends: .Prod
+  script:
+    - *prepare_android
+    - bundle exec fastlane deploy_android beta:true
+  dependencies:
+    - Android Build (PROD)
+  tags:
+    - mac-deploy
